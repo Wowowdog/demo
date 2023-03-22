@@ -1,1 +1,1 @@
-## This demo folder includes several projects regarding embeddede FW dev.
+## This demo folder collects my several FW dev. projects.
